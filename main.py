@@ -1,4 +1,4 @@
-name = 'max'
+name = 'Max'
 age = 21
 family = ['elena','evgenii','ksenia']
 print (f'Тип name:{type(name)}')
